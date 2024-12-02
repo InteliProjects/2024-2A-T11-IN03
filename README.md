@@ -29,7 +29,3 @@ Modelo para detectar anomalias no consumo e identificação de padrões de fraud
 - Grupo 4 
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T11-IN03-G04
   - https://github.com/Inteli-College/2024-2A-T11-IN03-G04
-
-- Grupo 5 
-  - Link do repositório: https://github.com/InteliProjects/2024-2A-T11-IN03-G05
-  - https://github.com/Inteli-College/2024-2A-T11-IN03-G05
